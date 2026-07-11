@@ -9,3 +9,32 @@ body {
   color:white;
 }
 
+header {
+  text-align: center ;
+  font-family: 'Arial' ;
+  background: purple;
+  color:white;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E2A8B5; /* Ton cute dark baby pink */
+  padding: 15px 30px;
+}
+
+/* On ajoute le style pour aligner les liens à l'intérieur */
+.nav-links {
+  display: flex;       /* Aligne About, Projects, Awards horizontalement */
+  list-style: none;    /* Enlève les puces/points blancs */
+  gap: 20px;           /* Crée de l'espace entre tes liens */
+  margin: 0;
+  padding: 0;
+}
+
+/* Optionnel : pour que le texte soit propre */
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Arial', sans-serif;
+}
