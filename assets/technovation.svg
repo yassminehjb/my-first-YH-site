@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120">
+  <rect width="240" height="120" rx="14" fill="#6a1b9a"/>
+  <circle cx="72" cy="60" r="28" fill="#ffd54f"/>
+  <rect x="110" y="34" width="70" height="52" rx="8" fill="#ffffff" opacity="0.95"/>
+  <text x="145" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6a1b9a">Tech</text>
+</svg>
